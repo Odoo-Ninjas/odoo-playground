@@ -1,0 +1,10 @@
+{   'application': False,
+    'author': 'Marc Wimmer (marc@itewimmer.de)',
+    'data': [],
+    'demo': [],
+    'depends': ['mod_depends_origin'],
+    'external_dependencies': {'bin': [], 'python': []},
+    'name': 'mod_depends_2',
+    'qweb': [],
+    'test': [],
+    'version': '14.0.1.0'}
